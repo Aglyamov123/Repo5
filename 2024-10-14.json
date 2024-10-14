@@ -1,0 +1,26 @@
+{
+  "name": "Marion Garza",
+  "age": 52,
+  "address": {
+    "street": "Hassod Plaza",
+    "city": "Pujekmuk",
+    "state": "FL",
+    "zip": "95080"
+  },
+  "contact": {
+    "phone": "(472) 510-1361",
+    "servicePhone": "800864228"
+  },
+  "birthday": "2002-04-02T12:26:48.764Z",
+  "ip": "95.123.145.121",
+  "foo": "bar",
+  "profile": {
+    "about": "Bak wir za sihul gofaza de vapuwliz surdo ke rasrom sapom homuk mavomhe. Jebus ifa risteg ifa vafnowceg wazzihen wok oti ru za mah ap le. Rog jav jokatef hupkercuw gabidigov roz mi copdaju nupaj pup ma ocoavhuk mevu gaep ufo pipta.",
+    "bio": "Memet ibiliob luocaci vuc cu dacvopog titujisu depiwu fokseged salbih rohkac fud varmitfa zigmefe ribmo tu usu visiko. Nurvusi ferukut zu vimilo ve tiecolu og naj jinmu paw olasa jokat gugwor pu am cedheeb risecig. Ukouhevu codez deisa deku pa wimzud luhalel pad nuvefel hebsami rura ar. Mev gehnornov adu peveza jotas le mo ik ighonik paj cu kufroj fogios pebliw sowu ugga gokpapa fo."
+  },
+  "apiKey": "48bc78220a7c865d6d094edffccbe146152ddcdbee2ee5cf9cb3a4c167a5bc36",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
