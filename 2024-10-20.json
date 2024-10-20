@@ -1,0 +1,26 @@
+{
+  "name": "Hester McLaughlin",
+  "age": 53,
+  "address": {
+    "street": "Wente Plaza",
+    "city": "Sikajriz",
+    "state": "MO",
+    "zip": "74349"
+  },
+  "contact": {
+    "phone": "(674) 311-1875",
+    "servicePhone": "800515445"
+  },
+  "birthday": "2003-08-18T11:29:27.521Z",
+  "ip": "54.119.97.80",
+  "foo": "bar",
+  "profile": {
+    "about": "Depcumaw forzob hi woclikeb ni zacto pepo he lifwo la pe aseenobo erbeme mitacuh nivozama se rah. Deguk re giniw un pec sehdeda ovila lobohzat ilofe zevnon uwe jo fasucur. Totowejo ukejot rukeh fog ri fiv lomewgi gevgavled ehokode poc ivriwot uhihannum. Orotohak alo hi mopenuvu wu ikiare pi zi dihpem uc viv ihounu jah it tehi hozetpo.",
+    "bio": "Wubkac afuedta rehhutnu begin ducemu di soza dupi uzu powledhi rar wilobo. Arrak nac jejutefon nocroven civahdob neove sarbun ga faje isa pu dawji goepaze. Coma inuconiv ejdusi ofi nara ficunef ba sirke jelzedeh hajup izudi bud pecma paino dew."
+  },
+  "apiKey": "1da4aa8d70de836b6de3da9d8c4147368d56ee3634312636a2e34bc6f07cc41c",
+  "currency": {
+    "code": "TTD",
+    "name": "Trinidad and Tobago Dollar"
+  }
+}
