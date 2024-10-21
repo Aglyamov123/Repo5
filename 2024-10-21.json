@@ -1,0 +1,26 @@
+{
+  "name": "Christopher Hunter",
+  "age": 54,
+  "address": {
+    "street": "Noidi Plaza",
+    "city": "Muurme",
+    "state": "ND",
+    "zip": "79140"
+  },
+  "contact": {
+    "phone": "(955) 314-8045",
+    "servicePhone": "800889833"
+  },
+  "birthday": "1972-03-03T10:52:30.251Z",
+  "ip": "220.33.126.55",
+  "foo": "bar",
+  "profile": {
+    "about": "Jalij nabu aljur upe dipidit nowacku pusmeg duwotejo fo cavha lavli uv dedbari utevafa ekrugwet az. Uto mojivkak kotlikap sikwi wizil ci lirso isegiswir ha wohrirsir la luzev eje bajir da ap. Lehajo ci ralaz def fubguv tuh zevu jaozoaca ununo bih apuruv faj rek wezal citi italo lowalen howitacoh.",
+    "bio": "Mednov wejva jeri namiawu wofuhzar lik viz isipik ehuuso sirunreg ju ezfa miwabiore ifebote rogeku ivunojic ruwaczu hejulgug. Zu volmi vivmehu uglabev pufacka ciku zema paku zuha poopfe cutvoc ukihu fik ligase. Uti ona pedupnab ojaibhe luidgo nic hubik gu jererigo odi oh zu fodpe lec pu saj dekdodure kifova."
+  },
+  "apiKey": "05a7b6deee18ca130991d7fe7a4d076649542497fd3ee2bcb7f2c3784d159842",
+  "currency": {
+    "code": "LAK",
+    "name": "Laos Kip"
+  }
+}
