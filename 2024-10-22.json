@@ -1,0 +1,26 @@
+{
+  "name": "Wesley Wong",
+  "age": 31,
+  "address": {
+    "street": "Wahda Park",
+    "city": "Cogdefji",
+    "state": "OK",
+    "zip": "75331"
+  },
+  "contact": {
+    "phone": "(603) 661-4735",
+    "servicePhone": "800656117"
+  },
+  "birthday": "1984-08-27T04:11:16.644Z",
+  "ip": "196.31.81.245",
+  "foo": "bar",
+  "profile": {
+    "about": "Omidoza roc teru cul lukdu tesdul acojel emaz refolti kizab sisemmoh wumpa. Lih jotoco ej jauheba hialbab ewavam jewu pemuvhac ozguret gomdusud ve ci rap. Kuzhad gokgukdu cohufu ehodaim okubo azedgo agna iluviigi dekarro pahueza wo nir cebekaj muh. Vusaf dozor busmasus fippar tacdafa vikbe bemjec fev ul oba iganok cis rewhi jevcaet tughe dosebu.",
+    "bio": "Joc bez marufo lewahi gouji etegat bezo go si le god liz soncega donume tuppij. Luke ivazujo ti moir vajkiam avafomi luwo ha ma bukjubwav acoaboju viva uwerob zabata molet. Jadu ki eg cel vupwa vuta ej lo ruzob giazo giji meajino uvza. Ah zi leggil uk odced fupues popup za koltu or fertot soim lop habewte waf wufeb."
+  },
+  "apiKey": "b99f80c4d7ce93142c1fc85ec7908cc11d95d0de6ed010c4148f84ee75280295",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
