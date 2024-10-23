@@ -1,0 +1,26 @@
+{
+  "name": "Lester Ball",
+  "age": 35,
+  "address": {
+    "street": "Gugi Turnpike",
+    "city": "Ochunu",
+    "state": "NM",
+    "zip": "13105"
+  },
+  "contact": {
+    "phone": "(633) 652-5366",
+    "servicePhone": "800372135"
+  },
+  "birthday": "1968-07-19T01:54:12.593Z",
+  "ip": "121.101.114.10",
+  "foo": "bar",
+  "profile": {
+    "about": "Jaw jujwoloso ajguf ga lagupu sise tefetu bo zusetih piwfitob ire mijacpo goloura hokpuffih jaubho repgev vuf ojohag. Jamizoca hiuf enruhon ege towne no kod cervevuh ateol veg il ki. Esivepo cudaizi so tev zioteriv vivhubu wales zo satuc belrudzud abukujel ru arkewde kahcat ozahatav rebe me veze. Pe ziaweku ov gipuzol ijfup ejatij ubuvlol he ida ebosjoj ezu of ogci hofu uhicilli it.",
+    "bio": "Dojdebe ni sihzezulu ilimnuw pa ica oca ijaihirud iv jes lew la. Fisusbaz givvuk go uhin si siruh fapa wo womujsuv evwi kurfufak det usdepman. Ha waezeiwe wu tegeno sitwohlah tup devul mekbimcel johe paneri opaku nehuvu giddir wira bakcocbiz."
+  },
+  "apiKey": "b23eb1c5d599ccef66111b7c1041f30621e9528baa41b9103a4b4b0e57a00805",
+  "currency": {
+    "code": "BDT",
+    "name": "Bangladesh Taka"
+  }
+}
