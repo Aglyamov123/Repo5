@@ -1,0 +1,26 @@
+{
+  "name": "Daniel Frazier",
+  "age": 35,
+  "address": {
+    "street": "Moega Path",
+    "city": "Rorohec",
+    "state": "IA",
+    "zip": "67509"
+  },
+  "contact": {
+    "phone": "(854) 647-3763",
+    "servicePhone": "800426351"
+  },
+  "birthday": "1998-04-18T09:27:40.078Z",
+  "ip": "202.91.173.29",
+  "foo": "bar",
+  "profile": {
+    "about": "Zu can rifib vilafus meh eslid pav oma ajde vaddemu ovohag diwsa daf zo to roc dus. Niwbij citlerub ridju wotuk nak amezewi ifusoida ru fimifewu ku pufis hiteer bapda tuices hopluz gimim. Bez gov op osoun zodnot ihpiav onribgeh ugi po mo vinus igbe.",
+    "bio": "Ipobepi haz cocjer purot guwe pipenu adidiuri viknas cipehri ki igwabma da. Tuh elon buva allokad ajaag fu jow par fej cetog gegkeba gu. Gudfijhis gikfi zijorzu fucsa baz wubivi koneuz ke lur fodlorcu batmerabi merfet jul doaju. Nozuni isu ninoal tewfazco wi erneul tid el neztu pip pud mesgut vadliadu gesoir nuki hiwap."
+  },
+  "apiKey": "2276fd009bdae2ef3861640a62e0b3184eaa540c09f0e6f5172fa5ae292729e7",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
