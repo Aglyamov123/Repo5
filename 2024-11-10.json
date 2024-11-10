@@ -1,0 +1,26 @@
+{
+  "name": "George Holland",
+  "age": 43,
+  "address": {
+    "street": "Imomic Square",
+    "city": "Haktuwaw",
+    "state": "TN",
+    "zip": "05985"
+  },
+  "contact": {
+    "phone": "(461) 948-2435",
+    "servicePhone": "800189541"
+  },
+  "birthday": "1967-01-16T06:15:20.743Z",
+  "ip": "198.171.219.53",
+  "foo": "bar",
+  "profile": {
+    "about": "Ponoat ibo disiti sufopuli ti kemug ja wut pikiv elof biv egoujiram hef hizcuzdi ikuvalu veacjah. Foh da ce cadenhid bead uj papneig jihpu dofe pi welovrip eb wudumu re hackut ruevoen. Limvu do huwsos fofzufan ewfez libi fa kacdu bepkujec husiv hugawhij bej paihe.",
+    "bio": "Tetizbi buw ubbal begnutep hamula nadug bifowa hoosuwut delmag kok ebiran zu hahlinofo lob ezrurdak uk suk ucedomus. Peca bihmeg goh awihij fum jugojefah erutif efgi laome jav veoc junogluh urdoc nutinfon ege hulse onuto. Ge lolhun vanaj amogebhu gezaj welefmov magla je cu kuveroj mabvucof kucfa hoiv sab li. Mowrahru ukelagi guofoci tiwaf zep udoefi efcu lepufe uke ra wigunlev cefo."
+  },
+  "apiKey": "dc7cf8e1be847af2b9d249999e4c69bb94d70d2121b7a8fa6186322481aa6399",
+  "currency": {
+    "code": "AED",
+    "name": "United Arab Emirates Dirham"
+  }
+}
