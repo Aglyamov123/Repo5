@@ -1,0 +1,26 @@
+{
+  "name": "Nancy Clark",
+  "age": 57,
+  "address": {
+    "street": "Rumfa Circle",
+    "city": "Edgelri",
+    "state": "KS",
+    "zip": "45320"
+  },
+  "contact": {
+    "phone": "(860) 285-8710",
+    "servicePhone": "800899819"
+  },
+  "birthday": "1983-11-05T04:48:53.688Z",
+  "ip": "76.245.223.242",
+  "foo": "bar",
+  "profile": {
+    "about": "Paciwar dodba roswo tez nalukef zu awzov ivu otofedjel ulobuto fugpegeb lo kisa zoej vuw ungiaj. Firtuvih oruzamev lopobana husvot atokuged nanli ehevido sagkebnif varjid wir fovlu niseiw ri bebpuzec. Apkib ravnuj jeju ohumogih oru wief eluho esiitcu ged asra wa cahat. Cefhovomo po wec seneho idiutuef gualutin desehej pu jimena esom to hus oke usder pocwop cuuh hawdi.",
+    "bio": "Zeruof ertopdi paw dev ehiwa isi uva vudrafvej nat ceb buf oteiwhij inudip ek iwbe fis ojwugo wodgaek. Latdedda vecti ner cibup wode for ikakacki uzasin mose puinku vezej coinmil um duzvid moza iwodej. Wufjesem gun vufwese unrubsoc igo setmak ku wolko miac urhowsap suva fubaser vete vej soum eceremi. Zupta hudce muzavapu bicaeci givikse bovkibe mebmel sajvun hagocne tamu zot sahareib. Zi va utmil gokuji onafuv mut nocihow kas bo pi kahgij vu ehu letap."
+  },
+  "apiKey": "69e7f93aaa0ee86dcbc165cafbf3dd3e49dcc0d97b8a49f1c134cbc33cf4b31a",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
