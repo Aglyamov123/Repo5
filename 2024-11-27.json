@@ -1,0 +1,26 @@
+{
+  "name": "Charlotte Salazar",
+  "age": 44,
+  "address": {
+    "street": "Imaes Way",
+    "city": "Hajgamuf",
+    "state": "VT",
+    "zip": "59671"
+  },
+  "contact": {
+    "phone": "(920) 762-6386",
+    "servicePhone": "800113119"
+  },
+  "birthday": "1974-10-03T03:43:50.966Z",
+  "ip": "229.252.215.225",
+  "foo": "bar",
+  "profile": {
+    "about": "Mec dij dakhiku rohtul jis hu gilepug kuf vofefov zuj fu noin. Vebeka ewuzwib fofopda bev ulu sorjeris libij vep hizsuse hokcucij eh fana jutvo. Fov jaf tag ile zi ur pu ho mijiz zi modomlo as daf.",
+    "bio": "Fupiz ceneg ajiacoho huoliger emudegte ne degiuzi me awojev uva rob sivop aduhales. Nuntavnal ijewoef mat rulab towok uwi ojliv womco cozas atsub nej fuzdembaw sojvibab ori gezezo disur wajso solnagli. Atebaje jacalgu biuj vuj tute hewit ikce igoj fudem muraf do cucetehig eze jiuru."
+  },
+  "apiKey": "21ab522650b160cff5505d7ab18fbae2937e8f19efd318710d700c3313ef83a0",
+  "currency": {
+    "code": "CVE",
+    "name": "Cape Verde Escudo"
+  }
+}
