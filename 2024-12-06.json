@@ -1,0 +1,26 @@
+{
+  "name": "Addie Snyder",
+  "age": 45,
+  "address": {
+    "street": "Irnu Pass",
+    "city": "Tozunmob",
+    "state": "NY",
+    "zip": "19898"
+  },
+  "contact": {
+    "phone": "(376) 962-2908",
+    "servicePhone": "800657162"
+  },
+  "birthday": "1996-12-27T05:45:39.775Z",
+  "ip": "62.182.226.237",
+  "foo": "bar",
+  "profile": {
+    "about": "Utawaja asotoozu ezameepo fe fegbarcef awocubpu iftamo bijiful rozfum sopizoc epza me tuoko ku noh ag soklugge. Ipinuime wawerzac ke gug pebefre wa benuka okaiko saliuv viar nulojof tuzalisu giubimi jon muugabaj. Nov mug jaj avlow robilda akbev vaop de ro duojufe waf nic. Sandu meneked for ka jafzi ep ic dowo topated lomaf wefhe awodi deni si.",
+    "bio": "Pipzili nab lof zoj bata teoc ilorut va niv sil ga umigukbu zegoftur resmeho fiwigic resir pufcul wi. Ki biwunlok an ihohew ar ojlarug ehi tepij kod iczek pepahomo sogege ted zegemi. Lonul gum deravicis kuf garuzila ese tactiw gestovhum ji ozaum fufinuni vuato oweasubif. Li ri se du terivji fuw cocodo vov rokpug bawwuhdem okavo pitofi fipuup ledtos dokfupta tokis bo. Vacgej wubdasita mihduk jofvoge kamebu kawdohloz bifemzic tovegelec socirgok go jebaaze ezkulmiz wevfa amomepure suupecu ki."
+  },
+  "apiKey": "2303a530ff1667005dad396af36e7ef5b3fa4a2daf29b37182e82b924673fcfe",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
