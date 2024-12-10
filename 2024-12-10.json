@@ -1,0 +1,26 @@
+{
+  "name": "Lucinda Jackson",
+  "age": 37,
+  "address": {
+    "street": "Vehu Street",
+    "city": "Ekpaki",
+    "state": "CO",
+    "zip": "42638"
+  },
+  "contact": {
+    "phone": "(205) 204-4324",
+    "servicePhone": "800213878"
+  },
+  "birthday": "1965-07-25T06:05:59.274Z",
+  "ip": "160.9.236.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Ted ra ofi huike cundo dol cemzil ildondo liw navuowi mauwi kafmah no sitadget zicere. Povbadhac zebgo ziz facugu merrini hohozidoj ugiamo mimegep ka puim sarhacuz hudihfoj muleti daw. Zoheh upowufu nunisu lizihoc iwvuba ker nuab woc heohe kufota kaboh miv nupowko geifwo rakippij ofgatet okiut. Nav rik kofuh fiicopo nor lonennec ad timbol cusundu taduczi rev sec wigmouh tum evjad fo.",
+    "bio": "Kizejima lehij ujalhi sufu rujbih arabo fuz fu capbij ikreruh zaca cete zaeca. Nodolac su dulbe disaul tomalrol tahiigu kehugaro olzi fo neem pufah gokekes. Hep be utelef jucvonef babilu notra ger sij bipvib zinfured ogoopecej semicebe jib ruc figdov sah rame."
+  },
+  "apiKey": "32e9a1874f14dfd574ac388329b8cd2320927543ed565dde32212c3917a99896",
+  "currency": {
+    "code": "BTN",
+    "name": "Bhutan Ngultrum"
+  }
+}
