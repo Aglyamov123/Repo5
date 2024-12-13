@@ -1,0 +1,26 @@
+{
+  "name": "Danny Hudson",
+  "age": 64,
+  "address": {
+    "street": "Etcon Avenue",
+    "city": "Fukduose",
+    "state": "ME",
+    "zip": "59238"
+  },
+  "contact": {
+    "phone": "(872) 518-4817",
+    "servicePhone": "800947114"
+  },
+  "birthday": "1986-03-19T06:55:43.960Z",
+  "ip": "135.141.144.191",
+  "foo": "bar",
+  "profile": {
+    "about": "Zajiobo oldigaw ehicez oheovo wuc fadhobi iho reakca door mockoeg gudal ma vivjohu roihekuz nozohu. Atojvab kurnamkud hiafku bes el ji ohzozul anciri ojne guglo bokhu heiwiumi. Alcaspe com tindo etucuar bohoz iji pufzi bet be zifepev ike ji cattar fonpa ezju kod. Ub zigif uhpudbuj vaklarbo ateotosop jobamoh dilufla ekimal pas zum ni sesiju du ro codekbu dev to pi.",
+    "bio": "Seato he waadcuf bu fezraf fuwu he nohvif haswusvu sibnal zug nuso dazwib telejfuf. Ha ho ra vawioli cib eg se ma dokuca musrovuf ce cemhoz kiis nitot. Heviwfa calpu afri taek laf afo pongimwu foj ka cenfi evit vas."
+  },
+  "apiKey": "3bb4992472bc456a5ebade9c1015277852e19dd8af3fb4a0957f8711939b5f26",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
